@@ -1,0 +1,9 @@
+.ProjectList-container {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+.loading {
+  text-align: center;
+}
